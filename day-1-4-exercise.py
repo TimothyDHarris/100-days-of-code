@@ -6,8 +6,11 @@ b = input("b: ")
 ####################################
 #Write your code below this line 👇
 
+changea = a
+changeb = b
 
-
+b = changea
+a = changeb
 
 #Write your code above this line 👆
 ####################################

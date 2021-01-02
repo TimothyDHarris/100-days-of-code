@@ -1,3 +1,5 @@
+# this is based on the project of making a band name generator. I took this idea and tweaked it to instead be a Mad Lib.
+
 print("Here is a shot Mad Lib, please fill out these 3 prompts to complete the story.")
 noun1 = input("Give me a noun:\n")
 adjective = input("Give me an adjective:\n")

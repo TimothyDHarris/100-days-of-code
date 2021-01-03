@@ -4,3 +4,6 @@ I am (1) following along on with Dr. Angela Yu on her Udemy course "100 Days of 
 I am taking her assignments and projects and trying to add my own flavor to each of them. I'll be adding comments to my code to show how I made the exercises or projects my own.
 I am also (2) working on applying the knowledge I've gained so far to build projects with HTML and CSS (and bootstrap).
 </p>
+<p>
+You can use repl.it to see my python projects as well. Just go to this link: https://repl.it/@TimothyDHarris
+</p>

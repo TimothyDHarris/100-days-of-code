@@ -2,6 +2,20 @@
     font-family: 'Redressed', cursive;
 }
 
-/* .main-div {
-    margin-top: 10%;
-} */
+.main-div {
+    margin-top: 12em;
+}
+
+@media (max-height: 415px) {
+    .main-div {
+    margin-top: 5em;
+    }
+}
+
+.navbar-brand {
+    font-size: 1em;
+}
+
+.top-navbar {
+    text-align: center;
+}

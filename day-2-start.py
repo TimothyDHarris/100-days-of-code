@@ -13,7 +13,7 @@ addition = print(123 + 456)
 # The Float type uses decimal points, like pi
 
 # Boolean is only True or False
-# ----------------------------------------------------------------------------------------------------------
+##################################################
 
 # You can change data types. For example you can change an intiger into a string by using this function below
 new_addition = str(addition)
@@ -23,3 +23,16 @@ print(type("Hello"))
 # we can also convert something within the print
 print(70 + float("100.5"))
 # you can use str() int() or float() to convert your variables
+##################################################
+
+# how to do math in python
+# addition 
+print(5 + 5)
+# subtraction 
+print(7 - 4)
+# multiplication 
+print(3 * 2)
+# division
+print(6 / 3)
+# raise to the power of
+print(2 ** 3)

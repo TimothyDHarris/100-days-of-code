@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    padding-top: 1em;
+}
+
+.title {
+    background-color: rgb(218, 220, 221);
+}
+
+img {
+    padding-top: 1em;
+    border-radius: 50%;
+    width: 50%;
+    height: auto;
+}
+
+ul, li {
+    text-align: center;
+}

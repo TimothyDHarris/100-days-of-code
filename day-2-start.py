@@ -49,5 +49,3 @@ print("The score is", score)
 ##################################################
 # f-String
 print(f"you can mix and match variables by adding them within braces here with an 'f' at the beginning with no spaces")
-
-print(6 + 4 / 2 - (1 * 2))

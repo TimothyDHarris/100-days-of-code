@@ -30,8 +30,8 @@ love += name2_lower_case.count("e")
 true_love = int(str(true) + str(love))
 
 if true_love >= 40 and true_love <= 50:
-    print(f"Your score is {true}{love}, you are alright together.")
+    print(f"Your score is {true_love}, you are alright together.")
 elif true_love < 10 or true_love > 90:
-    print(f"Your score is {true}{love}, you go together like coke and mentos.")
+    print(f"Your score is {true_love}, you go together like coke and mentos.")
 else:
-    print(f"Your score is {true}{love}.")
+    print(f"Your score is {true_love}.")

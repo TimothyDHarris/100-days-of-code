@@ -11,11 +11,11 @@ print('''
 print("Your mission is to escape the mountain lion")
 # decision flow chart below
 #https://www.draw.io/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Treasure%20Island%20Conditional.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1oDe4ehjWZipYRsVfeAx2HyB7LCQ8_Fvi%26export%3Ddownload
-direction = input('You are about to start hiking on a trail. You see two trailheads. Do you take the left one or the rignt one?\nType "left" for the left path and "right" for the right path.\n') 
+direction = input('You are about to start hiking on a trail. You see two trailheads. Do you take the left one or the rignt one?\nType "left" for the left path and "right" for the right path.\n').lower()
 if direction == "left":
-    path = input('This trail seems pretty safe. You see a boulder up ahead. Do you stay on the path or try climbing up the boulder?\nType "boulder" to try and climb the boulder or type "path" to stay on the path \n')
+    path = input('This trail seems pretty safe. You see a boulder up ahead. Do you stay on the path or try climbing up the boulder?\nType "boulder" to try and climb the boulder or type "path" to stay on the path \n').lower()
     if path == "path":
-        alone = input('Now you come across two other hikers.\nDo you go with the hiker going the same direction as you, the opposite direction as you, or do you stay hiking by yourself?\nType "same" to hike with the hiker going the same direction.\nType "opposite" to go the opposite direction from where you are going.\nOr type "alone" to keep hiking on your own\n')
+        alone = input('Now you come across two other hikers.\nDo you go with the hiker going the same direction as you, the opposite direction as you, or do you stay hiking by yourself?\nType "same" to hike with the hiker going the same direction.\nType "opposite" to go the opposite direction from where you are going.\nOr type "alone" to keep hiking on your own\n').lower()
         if alone == "opposite":
             print("You made a new friend and had a safe hike. Hiking with other people is a good way to scare off mountain lions. You made the right choice and you win!")
         elif alone == "same":

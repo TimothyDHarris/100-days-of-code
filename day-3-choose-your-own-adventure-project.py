@@ -15,7 +15,7 @@ direction = input('You are about to start hiking on a trail. You see two trailhe
 if direction == "left":
     path = input('This trail seems pretty safe. You see a boulder up ahead. Do you stay on the path or try climbing up the boulder?\nType "boulder" to try and climb the boulder or type "path" to stay on the path \n')
     if path == "path":
-        alone = input('Now you come across two other hikers.\nDo you go with the hiker going the same direction as you, the opposite direction as you are going, or do you stay hiking by yourself?\nType "same" to hike with the hiker going the same direction.\nType "opposite" to go the opposite direction from where you are going.\nOr type "alone" to keep hiking on your own\n')
+        alone = input('Now you come across two other hikers.\nDo you go with the hiker going the same direction as you, the opposite direction as you, or do you stay hiking by yourself?\nType "same" to hike with the hiker going the same direction.\nType "opposite" to go the opposite direction from where you are going.\nOr type "alone" to keep hiking on your own\n')
         if alone == "opposite":
             print("You made a new friend and had a safe hike. Hiking with other people is a good way to scare off mountain lions. You made the right choice and you win!")
         elif alone == "same":

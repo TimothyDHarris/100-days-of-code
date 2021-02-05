@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    text-indent: -2em;
+    padding-top: 4em;
+}
+
+.three-items {
+    padding-top: 2.5em;
+}
+
+.header { 
+    position: sticky; 
+    top:0; 
+} 
+
+.table-div {
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+}
+
+/* tr {
+    padding-top: 5px;
+} */
+
+/* .or {
+    display: flex;
+    text-indent: 1.9em;
+} */

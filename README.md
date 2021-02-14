@@ -5,5 +5,5 @@ I am taking her assignments and projects and trying to add my own flavor to each
 I am also working on (2) applying the knowledge I've gained so far to build projects with HTML, CSS, and Bootstrap.
 </p>
 <p>
-Here is a link to one of the websites I made using HTML, CSS, and Bootstrap: <a href="https://streamingservices.netlify.app/">streaming services website</a>
+Here is a link to one of the websites I made using HTML, CSS, and Bootstrap: <a href="https://streamingservices.netlify.app/" target="_blank">streaming services website</a>
 </p>

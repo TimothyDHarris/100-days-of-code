@@ -7,3 +7,6 @@ I am also working on (2) applying the knowledge I've gained so far to build proj
 <p>
 Here is a link to one of the websites I made using HTML, CSS, and Bootstrap: <a href="https://streamingservices.netlify.app/" target="_blank">streaming services website</a>
 </p>
+<p>
+These are the websites that I made with freeCodeCamp: 1: <a href="https://aangtributepage.netlify.app" target="_blank">tribute website</a> 2: <a href="https://fcc-surveyform-timothydharris.netlify.app" target="_blank">survey form</a>
+</p>

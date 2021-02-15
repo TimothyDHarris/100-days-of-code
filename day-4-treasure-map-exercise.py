@@ -1,3 +1,5 @@
+# web address for exercise: https://repl.it/@appbrewery/day-4-3-exercise
+
 # 🚨 Don't change the code below 👇
 row1 = ["⬜️","⬜️","⬜️"]
 row2 = ["⬜️","⬜️","⬜️"]

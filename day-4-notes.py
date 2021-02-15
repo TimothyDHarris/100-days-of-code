@@ -25,3 +25,9 @@ some_states_of_america.extend(["Maryland", "South Carolina", "New Hampshire"])
 print(some_states_of_america)
 # You can also use a negative number to pull from the back of the list
 print(some_states_of_america[-1])
+
+# You can nest lists inside a list
+food = ["hotdog", "burger", "fries"]
+condiments = ["katchup", "mustard", "relish"]
+menuList = [food, condiments]
+print(menuList)

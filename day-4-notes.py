@@ -28,6 +28,6 @@ print(some_states_of_america[-1])
 
 # You can nest lists inside a list
 food = ["hotdog", "burger", "fries"]
-condiments = ["katchup", "mustard", "relish"]
+condiments = ["catchup", "mustard", "relish"]
 menuList = [food, condiments]
 print(menuList)
